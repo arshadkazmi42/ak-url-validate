@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha test/valid_url_test.js"
+  },
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
