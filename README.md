@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/arshadkazmi42/ak-url-validate.svg?branch=master)](https://travis-ci.org/arshadkazmi42/ak-url-validate)
+[![Build Status](https://api.travis-ci.com/arshadkazmi42/ak-url-valdiate.svg?branch=master)](https://api.travis-ci.com/arshadkazmi42/ak-url-valdiate)
 
 # URL Validate
 
