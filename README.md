@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/arshadkazmi42/ak-url-validate.svg?branch=master)](https://travis-ci.org/arshadkazmi42/ak-url-validate)
+
 # URL Validate
 
 This library helps in validating whether a url exists or not. It verifies url pattern and whether the url is up and running.
