@@ -60,3 +60,7 @@ isValid function returns status code whatever is returned from the url response.
   message: "Invalid Url" 
 }
 ```
+
+## Contributing Guidelines
+
+Read the contributing guidelines [here](CONTRIBUTING.md)
