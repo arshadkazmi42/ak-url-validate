@@ -7,8 +7,8 @@ If you are looking forward to start contributing to beautiful world of open sour
 - Create a branch using `git checkout -b feature-branch`
 - Make the required changes
 - Run below command to verify all tests are passing
-  - `npm install` (This will install all required dependencies)
-  - `npm test`
+  - `yarn` (This will install all required dependencies)
+  - `yarn test`
 - Create a pull request using below commands
   - `git add --all`
   - `git commit -m "your commit message"`
