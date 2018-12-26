@@ -7,7 +7,9 @@ This library helps in validating whether a url exists or not. It verifies url pa
 ## Usage
 
 ```js
-var auv = require('async-url-validate');
+var auv = require('ak-url-validate');
+
+
 
 const url = 'http://github.com/arshadkazmi42';
 const response = await auv.isValidUrl(url);
