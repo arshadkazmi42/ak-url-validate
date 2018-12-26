@@ -13,7 +13,6 @@ This library helps in validating whether a url exists or not. It verifies url pa
 ```js
 var auv = require('async-url-validate');
 
-
 const url = 'http://github.com/arshadkazmi42';
 const response = await auv.isValidUrl(url);
 if (response.isValid) {
