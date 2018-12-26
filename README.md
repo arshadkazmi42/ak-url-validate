@@ -7,7 +7,6 @@ This library helps in validating whether a url exists or not. It verifies url pa
 ## Install
 `npm install ak-url-validate`
 
-
 ## Usage
 
 ```js
