@@ -4,11 +4,15 @@
 
 This library helps in validating whether a url exists or not. It verifies url pattern and whether the url is up and running.
 
+## Install
+```
+npm install ak-url-validate
+```
+
 ## Usage
 
 ```js
-var auv = require('ak-url-validate');
-
+var auv = require('async-url-validate');
 
 const url = 'http://github.com/arshadkazmi42';
 const response = await auv.isValidUrl(url);
