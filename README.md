@@ -5,7 +5,9 @@
 This library helps in validating whether a url exists or not. It verifies url pattern and whether the url is up and running.
 
 ## Install
-`npm install ak-url-validate`
+```
+npm install ak-url-validate
+```
 
 ## Usage
 
