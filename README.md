@@ -12,7 +12,7 @@ npm install ak-url-validate
 ## Usage
 
 ```js
-var auv = require('async-url-validate');
+var auv = require('ak-url-validate');
 
 const url = 'http://github.com/arshadkazmi42';
 const response = await auv.isValidUrl(url);
