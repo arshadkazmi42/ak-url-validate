@@ -1,6 +1,11 @@
 # URL Validate
 
 [![Build Status](https://travis-ci.org/arshadkazmi42/ak-url-validate.svg?branch=master)](https://travis-ci.org/arshadkazmi42/ak-url-validate)
+[![NPM Downloads](https://img.shields.io/npm/dt/ak-url-validate.svg)](https://www.npmjs.com/package/ak-url-validate)
+[![Package Size](https://img.shields.io/bundlephobia/min/ak-url-validate.svg)](https://www.npmjs.com/package/ak-url-validate)
+[![NPM Version](https://img.shields.io/npm/v/ak-url-validate.svg)](https://www.npmjs.com/package/ak-url-validate)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/ak-url-validate.svg)](https://github.com/arshadkazmi42/ak-url-validate/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/ak-url-validate.svg)](https://github.com/arshadkazmi42/ak-url-validate/commits/master)
 
 This library helps in validating whether a url exists or not. It verifies url pattern and whether the url is up and running.
 
