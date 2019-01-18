@@ -12,7 +12,7 @@
   },
   "name": "ak-url-validate",
   "description": "Async url ping validation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "directories": {
     "lib": "lib",
