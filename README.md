@@ -30,7 +30,7 @@ const response = await auv.isValidUrl(url);
 if (response.isValid) {
   // Do something if the url is valid
 } else {
-  // Do somthing if url is invalid
+  // Do something if url is invalid
 }
 
 ```
