@@ -12,12 +12,15 @@
   },
   "name": "ak-url-validate",
   "description": "Async url ping validation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "directories": {
     "lib": "lib",
     "test": "test"
   },
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/arshadkazmi42/ak-url-validate.git"
